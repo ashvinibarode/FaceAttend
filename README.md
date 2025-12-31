@@ -1,2 +1,2 @@
 # SmartFace
-automated attendance system
+Face Detection Attendence App
