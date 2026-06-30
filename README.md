@@ -27,8 +27,7 @@ FaceAttend is an Android-based Smart Attendance Management System developed to s
 - Firebase Realtime Database
 - Google ML Kit
 - Gradle
-- Git & GitHub
-
+  
 ---
 
 ## 📥 APK
