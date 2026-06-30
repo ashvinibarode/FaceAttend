@@ -32,7 +32,7 @@ FaceAttend is an Android-based Smart Attendance Management System developed to s
 ---
 
 ## 📥 APK
-
+https://github.com/ashvinibarode/FaceAttend/releases/tag/V1.0
 ---
 
 ## 👨‍💻 My Contribution
@@ -70,8 +70,6 @@ This project is created for educational and learning purposes.
 ## 👩‍💻 Author
 
 **Ashvini Barode**
-
-- LinkedIn: ashvini-barode-7028592ab
 
 
 ⭐ If you like this project, don't forget to star the repository.
